@@ -15,11 +15,11 @@ This project consists of a Java backend and a Next frontend for managing a produ
 
 ## Installation
 
-- Backend Setup 
+Backend Setup 
 - mvn clean install
 - mvn spring-boot:run
 
-- Frontend Setup
+Frontend Setup
 - npm install
 - npm start
 

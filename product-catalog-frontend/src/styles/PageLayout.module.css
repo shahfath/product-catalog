@@ -1,0 +1,58 @@
+.bannerContainer {
+  position: relative;
+}
+
+.bannerImage {
+  width: 100%;
+  height: auto;
+  filter: brightness(50%); 
+}
+
+.bannerHeading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+   
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap; 
+    margin: 20px; 
+    justify-content: center; 
+} 
+  
+  /* Form container styling */
+.formContainer {
+    flex: 1;
+    max-width: 45%;
+    min-width: 300px; 
+    padding: 20px;
+    border-radius: 8px;
+    background: linear-gradient(to top, #0d7eae, #ffffff);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  /* Form & List Heading */
+.formListHeading {
+    margin-bottom:10px;
+    text-align:center;
+    color:#0d7eae
+}
+  
+  /* Product List container styling */
+.productListContainer {
+    flex: 2; 
+    max-width: 60%; 
+    min-width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    background: linear-gradient(to top, #0d7eae, #ffffff);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

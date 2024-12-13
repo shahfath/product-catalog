@@ -21,6 +21,6 @@ Backend Setup
 
 Frontend Setup
 - npm install
-- npm start
+- npm run dev
 
 The app will start in http://localhost:3000

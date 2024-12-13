@@ -15,12 +15,12 @@ This project consists of a Java backend and a Next frontend for managing a produ
 
 ## Installation
 
-Backend Setup 
-mvn clean install
-mvn spring-boot:run
+- Backend Setup 
+- mvn clean install
+- mvn spring-boot:run
 
-Frontend Setup
-npm install
-npm start
+- Frontend Setup
+- npm install
+- npm start
 
 The app will start in http://localhost:3000

@@ -1,5 +1,3 @@
-# product-catalog
-Assessment for Anydesk
 # Product Catalog Project
 
 This project consists of a Java backend and a Next frontend for managing a product catalog.
